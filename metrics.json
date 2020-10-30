@@ -1,0 +1,47 @@
+[
+	{
+		
+		"Name": "Home Page",
+		"Metrics": {
+			"latency": 727,
+			"backend_response": 198,
+			"tti": 427,
+			"ttl": 274,
+			"onload": 17,
+			"total_time": 1460
+		}
+	},
+	{
+		"Name": "Computers Page",
+		"Metrics": {
+			"latency": 660,
+			"backend_response": 188,
+			"tti": 366,
+			"ttl": 20,
+			"onload": 0,
+			"total_time": 1052
+		}
+	},
+	{
+		"Name": "Desktops Page",
+		"Metrics": {
+			"latency": 689,
+			"backend_response": 192,
+			"tti": 244,
+			"ttl": 42,
+			"onload": 0,
+			"total_time": 980
+		}
+	},
+	{
+		"Name": "Product Page",
+		"Metrics": {
+			"latency": 701,
+			"backend_response": 388,
+			"tti": 811,
+			"ttl": 95,
+			"onload": 0,
+			"total_time": 1104
+		}
+	}
+]		
